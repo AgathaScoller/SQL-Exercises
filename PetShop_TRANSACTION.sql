@@ -1,3 +1,4 @@
+CREATE DATABASE petshop IF NOT EXISTS petshop;
 USE petshop;
 
 -- Exemplo 1: Inserir atendimento e atualizar estoque do produto
