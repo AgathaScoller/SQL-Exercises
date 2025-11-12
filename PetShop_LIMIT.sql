@@ -1,3 +1,4 @@
+CREATE DATABASE petshop IF NOT EXISTS petshop;
 USE petshop;
 
 -- 1. Pegar os primeiros 5 animais
