@@ -1,3 +1,4 @@
+CREATE DATABASE petshop IF NOT EXISTS petshop;
 USE petshop;
 
 -- 1. Usando IF para verificar se o estoque é baixo
