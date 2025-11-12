@@ -1,4 +1,4 @@
--- Seleciona o banco de dados
+CREATE DATABASE petshop IF NOT EXISTS petshop;
 USE petshop;
 
 -- 1. Animais da espécie 'Cachorro'
