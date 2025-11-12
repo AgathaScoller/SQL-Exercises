@@ -1,3 +1,4 @@
+CREATE DATABASE petshop IF NOT EXISTS petshop;
 USE petshop;
 
 -- 1. View com lista de animais e seus tutores
