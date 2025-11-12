@@ -1,5 +1,6 @@
--- Seleciona o banco de dados
+CREATE petshop IF NOT EXISTS petshop;
 USE petshop;
+
 
 INSERT INTO cargos (nome) VALUES
 ('Veterinário'),
