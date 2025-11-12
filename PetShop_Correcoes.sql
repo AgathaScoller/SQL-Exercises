@@ -1,4 +1,4 @@
-CREATE petshop IF NOT EXISTS petshop;
+CREATE DATABASE petshop IF NOT EXISTS petshop;
 USE petshop;
 
 -- =========================
