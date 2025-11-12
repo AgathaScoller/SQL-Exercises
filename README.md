@@ -1,6 +1,10 @@
 # SQL
 
-Repository dedicated to learning, practicing, and implementing SQL concepts.  
+![SQL](https://img.shields.io/badge/SQL-ANSI%20Standard-blue?style=flat-square)
+![Databases](https://img.shields.io/badge/Databases-PostgreSQL%2C%20MySQL%2C%20SQLite-9cf?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-DBeaver%2C%20pgAdmin%2C%20VS%20Code-ff69b4?style=flat-square)
+
+Repository dedicated to **learning, practicing, and implementing SQL concepts**.  
 Focuses on data modeling, query optimization, relational database design, and integration with analytical systems.
 
 ---
@@ -33,6 +37,6 @@ Focuses on data modeling, query optimization, relational database design, and in
 
 ## CODE STYLE
 
-Queries emphasize clarity, consistency, and performance.  
-Keywords are written in uppercase for readability.  
-Scripts follow logical organization with comments for context when necessary.  
+- Queries emphasize **clarity, consistency, and performance**  
+- Keywords are written in **uppercase** for readability  
+- Scripts follow logical organization with **comments** for context when necessary
