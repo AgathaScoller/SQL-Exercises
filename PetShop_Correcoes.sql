@@ -1,3 +1,4 @@
+CREATE petshop IF NOT EXISTS petshop;
 USE petshop;
 
 -- =========================
