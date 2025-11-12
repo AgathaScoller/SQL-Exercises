@@ -1,3 +1,4 @@
+CREATE DATABASE petshop IF NOT EXISTS petshop;
 USE petshop;
 
 -- 1. Tutores que possuem mais de 2 animais
