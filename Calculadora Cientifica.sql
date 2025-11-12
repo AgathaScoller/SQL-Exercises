@@ -1,5 +1,3 @@
----Banco
-
 CREATE DATABASE IF NOT EXISTS calculadora_cientifica;
 USE calculadora_cientifica;
 
